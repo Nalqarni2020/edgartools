@@ -1,0 +1,63 @@
+╔═══════════════════════════════════════════════════════════════╗
+║           ESG COMPENSATION CLASSIFIER - RUN SCRIPTS          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🚀 PICK ANY OF THESE (THEY ALL WORK!):
+
+┌─────────────────────────────────────────────────────────────┐
+│ 1. SIMPLEST EXAMPLE (⭐ RECOMMENDED)                        │
+│    python3 run_esg_example.py                               │
+│    → Shows nice formatted output with all metrics           │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ 2. MINIMAL SCRIPT (EASIEST TO MODIFY)                       │
+│    python3 COPY_THIS_SCRIPT.py                              │
+│    → 20 lines, super simple, edit proxy_text variable       │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ 3. OFFICIAL DEMO                                             │
+│    python3 esg_compensation_pipeline_all_in_one.py --demo   │
+│    → Built-in demo from main script                         │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ 4. FULL TEST SUITE (4 SCENARIOS)                            │
+│    python3 test_esg_local.py                                │
+│    → Tests ESG cases, non-ESG, real companies, etc.         │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ 5. CODE EXAMPLES                                             │
+│    python3 esg_quick_start.py                               │
+│    → Shows integration patterns with edgartools             │
+└─────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════
+
+📍 ALL FILES LOCATION: /workspace/
+
+📝 FILE LIST:
+   ✓ run_esg_example.py                    (Full example)
+   ✓ COPY_THIS_SCRIPT.py                   (Minimal script)
+   ✓ esg_compensation_pipeline_all_in_one.py  (Main tool)
+   ✓ test_esg_local.py                     (Test suite)
+   ✓ esg_quick_start.py                    (Code examples)
+
+═══════════════════════════════════════════════════════════════
+
+💡 IN PYCHARM:
+   1. Open any script above
+   2. Right-click in editor
+   3. Click "Run"
+   4. Done!
+
+═══════════════════════════════════════════════════════════════
+
+📚 DOCUMENTATION:
+   • PYCHARM_QUICKSTART.md      PyCharm instructions
+   • ESG_COMPENSATION_README.md Full API docs
+   • ESG_COMPENSATION_INDEX.md  Navigation guide
+
+═══════════════════════════════════════════════════════════════
